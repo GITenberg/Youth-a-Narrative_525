@@ -1,5 +1,8 @@
 _repo: Youth-a-Narrative_525
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/125
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/525#Youth-a-Narrative
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
